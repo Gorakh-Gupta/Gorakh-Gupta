@@ -36,8 +36,8 @@ I love problem solving and learning new algorithm.<br/><br/>
 ### 🚀 Quick Stats
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Gorakh-Gupta&row=1)](https://github.com/ryo-ma/github-profile-trophy)<br>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MrUltimate-Karn&show_icons=true&line_height=21&theme=react" alt="MrUltimate-Karn's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrUltimate-Karn&theme=react&line_height=27&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gorakh-Gupta&show_icons=true&line_height=21&theme=react" alt="Gorakh-Gupta's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gorakh-Gupta&theme=react&line_height=27&layout=compact" />
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Gorakh-Gupta)
