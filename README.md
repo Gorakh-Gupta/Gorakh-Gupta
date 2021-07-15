@@ -40,4 +40,4 @@ I love problem solving and learning new algorithm.<br/><br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrUltimate-Karn&theme=react&line_height=27&layout=compact" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MrUltimate-Karn)
+![Profile Views](https://komarev.com/ghpvc/?username=Gorakh-Gupta)
