@@ -1,4 +1,4 @@
-<h1>Hey, <a href="https://github.com/MrUltimate-Karn">Karn here!</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hey, <a href="https://github.com/MrUltimate-Karn">Gorakh here!</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <!--
 *MrUltimate-Karn/MrUltimate-Karn* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/MrUltimate-Karn/)](https://github.com/MrUltimate-Karn/) 
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/MrGorakh Gupta/)](https://github.com/MrGorakh Gupta/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karnsingh311/)](https://www.linkedin.com/in/karnsingh311)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karnkumarsingh0000@gmail.com)](mailto:karnkumarsingh0000@gmail.com)
 
