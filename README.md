@@ -1,4 +1,4 @@
-<h1>Hey, <a href="https://github.com/MrUltimate-Karn">Gorakh here!</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hey, <a href="https://github.com/Gorakh-Gupta">Gorakh here!</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <!--
 *MrUltimate-Karn/MrUltimate-Karn* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
