@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gorakhgupta23@gmail.com)](mailto:gorakh.gupta23@gmail.com)
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm Gorakh, a Software Engineer having 3+ years of experience working in various domains like full stack, machine learning, backend and data engineering.
+I'm Gorakh, a Software Engineer having 4+ years of experience working in various domains like AI, full stack, machine learning, backend and data engineering.
 I'm a *Tech Enthusiast 💻 😃* passionate about learning and working with new tech.
 I love problem solving and learning new algorithm.<br/><br/>
 
